@@ -1,0 +1,14 @@
+/Users/andjelajankovic/Desktop/moment 3/bin/Debug/net8.0/moment 3
+/Users/andjelajankovic/Desktop/moment 3/bin/Debug/net8.0/moment 3.deps.json
+/Users/andjelajankovic/Desktop/moment 3/bin/Debug/net8.0/moment 3.runtimeconfig.json
+/Users/andjelajankovic/Desktop/moment 3/bin/Debug/net8.0/moment 3.dll
+/Users/andjelajankovic/Desktop/moment 3/bin/Debug/net8.0/moment 3.pdb
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.AssemblyInfoInputs.cache
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.AssemblyInfo.cs
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.csproj.CoreCompileInputs.cache
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.dll
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/refint/moment 3.dll
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.pdb
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.genruntimeconfig.cache
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/ref/moment 3.dll
