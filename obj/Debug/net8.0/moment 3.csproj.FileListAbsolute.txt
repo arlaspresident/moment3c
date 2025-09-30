@@ -12,3 +12,4 @@
 /Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.pdb
 /Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.genruntimeconfig.cache
 /Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/ref/moment 3.dll
+/Users/andjelajankovic/Desktop/moment 3/obj/Debug/net8.0/moment 3.sourcelink.json
